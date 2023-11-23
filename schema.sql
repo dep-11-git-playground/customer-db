@@ -20,6 +20,20 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kalpa', 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Sajeewa', 'Priyasad','053-8936589', 'NewZealand');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Krishan', 'Perera','089-4526389', 'German');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Achala', 'Nuwan','012-8963589', 'Ukrain');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
+
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mahinda', 'Rajapaksha', '076-1256488', 'USA');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('John', 'Cena', '099-1684239', 'Canada');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Virat', 'Kholi', '063-8995132', 'UK');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Lionel', 'Messi', '051-5619742', 'Australia');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Oliver', 'Brown', '094-8615762', 'Germany');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Emma', 'Garcia', '032-7168743', 'Spain');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Liam', 'Martinez', '074-6589184', 'France');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ava', 'Lee', '071-2222222', 'Japan');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Noah', 'Lopez', '119-1191191', 'Brazil');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mia', 'Nguyen', '911-9119119', 'China');
+
 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Chamara', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kaveendra', 'Randeeera', '075-1233567', 'Ausi');
@@ -33,6 +47,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Heshan',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Sajith', 'Sathira', '073-1346567', 'Russia');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ranil', 'Wickramasingha', '073-1234456', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Maithree', 'Gunaweera', '073-1232347', 'Saudi');
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('gagana', 'isuru', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('isuru', 'kamal', '077-1658721', 'India');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('kalana', 'sachith', '077-7896333', 'Poland');
@@ -53,3 +68,19 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('maxx', '
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'Ramindu', '078-1234567', 'Sri Lanka');
 
+INSERT INTO customer (first_name, last_name, contact, country) VALUES
+    ('John', 'Doe', '077-2121344', 'USA'),
+    ('Alice', 'Smith', '077-3456789', 'Canada'),
+    ('Bob', 'Johnson', '077-4567890', 'UK'),
+    ('Eva', 'Brown', '077-5678901', 'Australia'),
+    ('Charlie', 'Williams', '077-6789012', 'Germany'),
+    ('Sophia', 'Taylor', '077-7890123', 'France'),
+    ('David', 'Lee', '077-8901234', 'Japan'),
+    ('Emma', 'Clark', '077-9012345', 'Brazil'),
+    ('Frank', 'White', '077-1234567', 'India'),
+    ('Grace', 'Anderson', '077-2345678', 'South Africa');
+
+
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Supun', 'Lakmal', '079-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Kalhara', '055-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Udayanga', 'Waranakulasooriya', '066-1234567', 'Sri Lanka');
