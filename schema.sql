@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS customer(
     country VARCHAR(50) NOT NULL
 );
 
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES 
 ('Ruwan', 'Sampath', '011-1234567', 'Sri Lanka'),
 ('John', 'Doe', '555-9876543', 'USA'),
