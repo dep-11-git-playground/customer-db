@@ -337,10 +337,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Oshada',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kelum', 'Suranga', '043-5679043', 'Thailan');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Janaka', 'Mangala', '072-4567833', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Janidu', 'Heshawa', '072-4567833', 'Sri Lanka');
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Hashan', 'Thilakarathna', '077-4521632', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Bimal', 'Sampath', '021-7894526', 'Austrailia');
@@ -353,7 +350,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwani',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nimal', 'Sampath', '077-1222667', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Danushka', 'Mendis', '077-1233567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kirali', 'Fernando', '077-1255567', 'Sri Lanka');
->>>>>>> 539de993f5a7ac794bda05e052ba81b2a815a2ef
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Chamara', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kaveendra', 'Randeeera', '075-1233567', 'Ausi');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Pasindu', 'Wijeweera', '073-1234367', 'Pakisatan');
@@ -385,7 +382,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('channa',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('maxx', 'Sampath', '077-12347774441567', 'Italy');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'Ramindu', '078-1234567', 'Sri Lanka');
-<<<<<<< HEAD
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ruwani', 'Gunarathna', '078-1112223', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Dilan', 'Nuwanga', '071-1234455', 'Australia');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Ranmuthu', 'Wijesingha', '077-3335557', 'India');
@@ -407,7 +404,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES
     ('Emma', 'Clark', '077-9012345', 'Brazil'),
     ('Frank', 'White', '077-1234567', 'India'),
     ('Grace', 'Anderson', '077-2345678', 'South Africa');
-=======
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Dewuruge', 'nishada', '023-5332322', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Sunil', 'Gunapala', '021-3453423', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Lawan', 'Dileep', '045-3443232', 'Sri Lanka');
@@ -417,12 +414,11 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Mihiran'
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Tanya', 'Perera', '076-8623212', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Pasindu', 'Shehan', '081-3534621', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Jayan', 'Karunanayake', '034-3422765', 'Sri Lanka');
->>>>>>> 539de993f5a7ac794bda05e052ba81b2a815a2ef
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Supun', 'Lakmal', '079-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Kalhara', '055-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Udayanga', 'Waranakulasooriya', '066-1234567', 'Sri Lanka');
-<<<<<<< HEAD
-=======
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES 	('Charith', 'Asalanka', '011-6342746', 'Sri Lanka'), 
 									('Kusal', 'Mendis', '081-1324537', 'Sri Lanka'),
 									('Dasun', 'Shanaka', '066-6254273', 'Sri Lanka'),
@@ -449,7 +445,3 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Lasith',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'Thushaara', '076-1534567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Pathum', 'Nissanaka', '076-1634567', 'Sri Lanka');
 
->>>>>>> 539de993f5a7ac794bda05e052ba81b2a815a2ef
-
-
->>>>>>> base1/main
