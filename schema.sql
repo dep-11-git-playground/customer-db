@@ -420,4 +420,17 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES 	('Charith
 									('Chamika', 'Karunarathna', '077-7362534', 'Sri Lanka');
 
 
-
+INSERT INTO customer (first_name, last_name, contact, country) VALUES 	('Anjelina', 'Jolie', '014-78787464', 'USA'), 
+									('Brad', 'Pitt', '112-4378392392', 'USA'),
+									('Tom', 'Cruise', '121-639492904', 'Colombia'),
+									('Gerad', 'Butler', '353-58482044', 'Uruguwe'),
+									('Melani', 'trumph', '145-4753857', 'Egypt'),
+									('Sachin','Thendulkar','134-4773839','India'),
+									('Salman', 'Khan','345-57371943','India'),
+									('Sinsho', 'Abey','243-48737942','Japan'),
+									('Mohamad', 'Binsalman','056-47284941','Saudi Arabia'),
+									('Rafik','Ahamadijend','056-3737239','Saudi Arabia');
+									
+									
+									
+									
