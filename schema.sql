@@ -1,5 +1,6 @@
 
 
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Gayu', 'Chama', '078-1244527', 'America');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwani', 'Sandunika', '079-1234567', 'India');
@@ -281,6 +282,15 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Sampath'
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kabeer', 'Hashim', '034-56930130', 'Sweeden');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Vladimir', 'Orwel', '036-21422332', 'Russia');
 
+CREATE TABLE IF NOT EXISTS customer(
+    id INT AUTO_INCREMENT PRIMARY KEY ,
+    first_name VARCHAR(100) NOT NULL,
+    last_name VARCHAR(100) NOT NULL,
+    contact VARCHAR(30) NOT NULL,
+    country VARCHAR(50) NOT NULL
+);
+
+
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '011-4564123', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'bandara', '022-7534423', 'india');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'peiris', '033-2364567', 'US');
@@ -378,6 +388,7 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES
 ('Isabella', 'Jones', '077-1122336', 'Sri Lanka'),
 ('Mason', 'Davis', '077-4455669', 'Sri Lanka'),
 ('Emma', 'Taylor', '077-7788992', 'Sri Lanka');
+
 
 
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Pathum', 'Pathirana', '077-3456798', 'Sri Lanka');
