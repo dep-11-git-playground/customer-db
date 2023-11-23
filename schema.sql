@@ -48,3 +48,5 @@ INSERT INTO customer (first_name, last_name, contact, country) VALUES ('channa',
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('maxx', 'Sampath', '077-12347774441567', 'Italy');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Kasun', 'Sampath', '077-1234567', 'Sri Lanka');
 INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Nuwan', 'Ramindu', '078-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Supun', 'Lakmal', '079-1234567', 'Sri Lanka');
+INSERT INTO customer (first_name, last_name, contact, country) VALUES ('Udayanga', 'Waranakulasooriya', '066-1234567', 'Sri Lanka');
